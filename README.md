@@ -78,36 +78,6 @@ market-expansion-data-study/
 ├── Presentation/          # Final presentation slides
 └── README.md
 ```
-
----
-
-## Database Setup
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/market-expansion-data-study.git
-
-cd market-expansion-data-study
-```
-
----
-
-### Create the Database
-
-```sql
-CREATE DATABASE magist_db;
-USE magist_db;
-```
-
----
-
-### Import the SQL Dump
-
-```bash
-unzip -p Data/magist_dump.sql.zip | mysql -u your_username -p magist_db
-```
-
 ---
 
 ## SQL Analysis
