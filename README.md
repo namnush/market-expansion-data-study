@@ -61,10 +61,9 @@ Magist is **not an ideal strategic partner** for Eniac’s premium technology ex
 ## Tools & Technologies
 
 - MySQL
-- SQL
 - Tableau
-- Excel / CSV
-- Google Slides / PowerPoint
+- CSV
+- Google Slides 
 
 ---
 
